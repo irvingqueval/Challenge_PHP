@@ -11,6 +11,4 @@ foreach ($stevensonMovies as $title => $actors) {
     echo 'Dans le film ' . $title . ', les principaux acteurs sont : ' . "\n" . $actorsList . "\n" ."\n";
 }
 
-
-
 ?>
